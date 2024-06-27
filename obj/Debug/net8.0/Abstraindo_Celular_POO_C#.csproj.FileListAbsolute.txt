@@ -1,0 +1,14 @@
+C:\Users\Consu\OneDrive\Documentos\Abstraindo_Celular_POO_C#\bin\Debug\net8.0\Abstraindo_Celular_POO_C#.exe
+C:\Users\Consu\OneDrive\Documentos\Abstraindo_Celular_POO_C#\bin\Debug\net8.0\Abstraindo_Celular_POO_C#.deps.json
+C:\Users\Consu\OneDrive\Documentos\Abstraindo_Celular_POO_C#\bin\Debug\net8.0\Abstraindo_Celular_POO_C#.runtimeconfig.json
+C:\Users\Consu\OneDrive\Documentos\Abstraindo_Celular_POO_C#\bin\Debug\net8.0\Abstraindo_Celular_POO_C#.dll
+C:\Users\Consu\OneDrive\Documentos\Abstraindo_Celular_POO_C#\bin\Debug\net8.0\Abstraindo_Celular_POO_C#.pdb
+C:\Users\Consu\OneDrive\Documentos\Abstraindo_Celular_POO_C#\obj\Debug\net8.0\Abstraindo_Celular_POO_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Consu\OneDrive\Documentos\Abstraindo_Celular_POO_C#\obj\Debug\net8.0\Abstraindo_Celular_POO_C#.AssemblyInfoInputs.cache
+C:\Users\Consu\OneDrive\Documentos\Abstraindo_Celular_POO_C#\obj\Debug\net8.0\Abstraindo_Celular_POO_C#.AssemblyInfo.cs
+C:\Users\Consu\OneDrive\Documentos\Abstraindo_Celular_POO_C#\obj\Debug\net8.0\Abstraindo_Celular_POO_C#.csproj.CoreCompileInputs.cache
+C:\Users\Consu\OneDrive\Documentos\Abstraindo_Celular_POO_C#\obj\Debug\net8.0\Abstraindo_Celular_POO_C#.dll
+C:\Users\Consu\OneDrive\Documentos\Abstraindo_Celular_POO_C#\obj\Debug\net8.0\refint\Abstraindo_Celular_POO_C#.dll
+C:\Users\Consu\OneDrive\Documentos\Abstraindo_Celular_POO_C#\obj\Debug\net8.0\Abstraindo_Celular_POO_C#.pdb
+C:\Users\Consu\OneDrive\Documentos\Abstraindo_Celular_POO_C#\obj\Debug\net8.0\Abstraindo_Celular_POO_C#.genruntimeconfig.cache
+C:\Users\Consu\OneDrive\Documentos\Abstraindo_Celular_POO_C#\obj\Debug\net8.0\ref\Abstraindo_Celular_POO_C#.dll
